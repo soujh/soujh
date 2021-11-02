@@ -1,6 +1,6 @@
-### Hi There, Welcome to my Github ! My name is Soulaïmane. 
+### Hi There, welcome to my Github ! My name is Soulaïmane. 
 
-## I study Data Scien & IA in an engineering school based in Paris. 
+## I study Data Science & IA in an engineering school based in Paris. 
 
 - 🌱 Currently working as an apprentice Data Scientist for one of the leading telecom companies in France 
 - 🥅 2022 Goals: Finish my studies with a maximum of skills
