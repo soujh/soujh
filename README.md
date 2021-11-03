@@ -2,7 +2,7 @@
 
 ## Currently studying Data Science & IA in an engineering school based in Paris. 
 
-- 🌱 Currently working as an apprentice Data Scientist for one of the leading telecom companies in France 
+- 🌱 Working as an apprentice Data Scientist for one of the leading telecom companies in France 
 - 🥅 2022 Goals: Finish my studies with a maximum of skills
 - ⭐ Travel addict : My greatest passion is to discover new cultures, new landscapes, new people... 
 
